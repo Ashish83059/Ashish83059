@@ -19,7 +19,7 @@ I craft sleek UIs ⚡ with React & Tailwind, and build reliable backends 🔧 wi
 
 ## 🧩 Tech I Play With  
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,cpp" />  
+<img src="https://skillicons.dev/icons?i=c,cpp" />  
 <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb" />  
 <img src="https://skillicons.dev/icons?i=mysql,figma" />
 </p>
